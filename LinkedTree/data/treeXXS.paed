@@ -1,0 +1,9 @@
+8
+78230732;QuantumSearch;ChucK;O(n!·log(n));495732814
+51;MergeShuffle;ActionScript;O(1);1115747712
+66;HashCopy;Ace DASL (Distributed Application Specification Language);O(n⁸);222753167
+14;Recursive HeuristicLoop;Limnor;O(n⁶·log(n));1220388236
+662379;SmartShuffle;ActionScript;O(n⁶);1070919665
+5;PseudoCopy;rc;O(n⁹);1112961366
+794613553;Recursive HeuristicRank;WATFIV, WATFOR (WATerloo FORtran IV);O(n⁵·log(n));497444913
+80402;RandomCopy;Boo;O(n⁷·log(n));764770486

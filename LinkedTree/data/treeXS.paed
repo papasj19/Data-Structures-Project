@@ -1,0 +1,65 @@
+64
+1163;Recursive BubbleSearch;UNITY;O(n⁶·log(n));404176085
+776067;WorstCopy;QPL;O(n⁷·log(n));187115175
+14603;HybridSearch;Nickle;O(n⁹);566472823
+96;HeuristicSearch;Logtalk;O(n⁴);975484785
+799426858;Recursive InsertionShuffle;MuPAD;O(infinity);415877343
+64;Recursive QuantumShuffle;J++ (J plus plus);O(n⁹);1288364458
+5341;Recursive HeuristicRank;Curry;O(n⁹);1435781584
+659;WorstCopy;Objective-C;O(n³);151435471
+3;ArraySearch;XPL0;O(n⁷·log(n));430287993
+707;Recursive EdgeSearch;Max;O(1);907848324
+86238447;InsertionLoop;LPC;O(n²·log(n));1261718299
+4;Recursive MergeCopy;Source;O(n⁵·log(n));370560436
+28;Recursive SlowLoop;Jess;O(n³);289480348
+4411796;HeuristicSearch;KEE;O(n);732888620
+190;Recursive SmartRank;Cybil;O(√n);1143660437
+8084;OptiShuffle;SIGNAL;O(n⁶·log(n));88925579
+452341213;Recursive InsertionRank;Whiley;O(n²);1465780624
+289;QuickLoop;A+ (A plus);O(n⁴);27824322
+2461;Recursive OptiSearch;TPU (Text Processing Utility);O(n!·log(n));128874684
+2342210;CloudCopy;SYMPL;O(n⁷);33408664
+561103614;GoodLoop;Xtend;O(1);502287247
+508;ArrayLoop;Crystal;O(n⁷);607075186
+54150809;Recursive CloudShuffle;JADE;O(n⁵);8712378
+9390324;BubbleShuffle;Agda;O(n⁸);1205895174
+81;OptiSearch;TACPOL;O(n³·log(n));1521403418
+146;InsertionSearch;fish;O(n⁴);1508812210
+988832;Recursive SmartSort;Strand;O(n⁶·log(n));1437822071
+537615;DeepCopy;rc;O(n!·log(n));584438053
+14629468;Recursive SmartSort;Simula;O(n·log(n));854259744
+314;BadSort;Boomerang;O(n⁹·log(n));1001500745
+1684;Recursive MatrixCopy;Bosque;O(n²·log(n));1076928295
+660565;BruteSearch;C*;O(n⁴);884772763
+880;Recursive BubbleCopy;Processing.js;O(n!);332688910
+846;Recursive HeuristicLoop;Pure Data;O(n);546189202
+2;OptiCopy;ROOP;O(log(n));749367734
+3730;Recursive BruteCopy;IBM Informix-4GL;O(n⁶·log(n));310008330
+5;Recursive BucketShuffle;Z notation;O(n⁵·log(n));1227248069
+861266456;BinaryLoop;Lingo;O(log(n));869501169
+643;Recursive SmartLoop;J++ (J plus plus);O(n²·log(n));985215800
+1;Recursive SelectionSearch;EXEC 2;O(n³·log(n));532173845
+4335002;Recursive GreedySort;Oxygene;O(√n);939281924
+7235793;BogoLoop;dc;O(infinity);1570759642
+82734;Recursive OptiLoop;ORCA/Modula-2;O(n⁶·log(n));582286206
+817346;EdgeLoop;Pike;O(n⁴);384116244
+69662892;Recursive BestShuffle;Mary;O(n⁹·log(n));331570940
+2486;Recursive BinaryLoop;AutoLISP / Visual LISP;O(-1);274367712
+8;Recursive SlowShuffle;HAL/S;O(n⁷·log(n));1147615444
+105375;Recursive SleepCopy;Nickle;O(n⁷·log(n));1330442878
+9;Recursive BucketSearch;Common Intermediate Language;O(n⁴·log(n));271020543
+917864;WorstSearch;SOL;O(n⁹·log(n));542969984
+631972;Recursive SlowLoop;ECMAScript;O(n⁶);245651184
+33681;OptiLoop;Object REXX;O(n⁷);497366035
+192884;Recursive InsertionShuffle;Squeak;O(n⁵);924659189
+94836;Recursive BruteShuffle;CESIL (Computer Education in Schools Instruction Language);O(n!);1068587138
+5974;Recursive BestSearch;Winbatch;O(n²·log(n));1072930090
+249717;OptiSort;Lua;O(√n);977134143
+3713512;Recursive BubbleLoop;FLOW-MATIC (B0);O(n·log(n));1234448975
+528794;Recursive OptiCopy;dc;O(n²);940284432
+313170;Recursive BruteLoop;Nial;O(n);421613599
+618;PseudoShuffle;J++ (J plus plus);O(n⁷);1006388937
+197990;Recursive CloudLoop;Charm;O(n⁶);190682812
+93375;Recursive RandomSort;GAMS (General Algebraic Modeling System);O(√n);249481047
+318;Recursive OptiCopy;Pure Data;O(n⁵·log(n));650370722
+548;OptiSearch;CobolScript;O(n⁹·log(n));1003899974
